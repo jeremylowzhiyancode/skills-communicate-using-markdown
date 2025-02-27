@@ -9,3 +9,6 @@ This is my bio page. Welcome.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Complete my studies
+- [x] Get a good job
+- [ ] Cry in a corner
